@@ -1,5 +1,5 @@
 {
-  "name": "extensions",
+  "name": "dakmaz-extensions",
   "version": "0.0.1",
   "description": "Dizi, obje, string gibi tiplere uzantı içeriyor",
   "main": "index.js",
